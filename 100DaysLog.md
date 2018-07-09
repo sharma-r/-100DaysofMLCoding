@@ -8,6 +8,6 @@ Learnt several key numpy functions.
 
 <h3>DAY 2 : Jul 8 , 2018</h3>
 
-<b>Today's Progress :</b> learnt about the matplotlib and data visualization. built various types of plots and to customized them as an assignment on a datacamp course. Started with some Machine learning algorithms. learnt about logistic regression and neural network. Spent time understanding the algorithms.
+<b>Today's Progress :</b> learnt about the matplotlib and data visualization. built various types of plots and customized them as an assignment on a datacamp course. Started with some Machine learning algorithms. learnt about logistic regression and neural network. Spent time understanding the algorithms.
 
 
