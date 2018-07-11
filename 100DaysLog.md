@@ -16,3 +16,6 @@ Learnt several key numpy functions.
 
 <b>Link of Work:</b> <a href="https://hub.coursera-notebooks.org/user/pisufwhumemxcfgqmrhmev/notebooks/Week%202/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v5.ipynb#">neural network and deep learning/ Logistic Regression with neural network mindset</a>
 
+<h3>DAY 4 : Jul 10 , 2018</h3>
+
+<b>Today's Progress :</b> learnt about CNN and keras. credits: @Sirajology on youtube. Built an image classsifier using keras and tensorflow.
