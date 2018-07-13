@@ -19,3 +19,10 @@ Learnt several key numpy functions.
 <h3>DAY 4 : Jul 10 , 2018</h3>
 
 <b>Today's Progress :</b> learnt about CNN and keras. credits: @Sirajology on youtube. Built an image classsifier using keras and tensorflow.
+
+<h3>DAY 3 : Jul 11 , 2018</h3>
+
+<b>Today's Progress :</b> Built a shallow neural network with one hidden layer, using forward propagation and backpropagation.
+learnt about and implemented hidden units and hidden layers, various activation functions, random initialization. Built a program that generates red and blue points to form a flower, and then fit a neural network to classify those points.Also tested with different parameters to observe performance in different cases.
+
+<b>Link of Work:</b> <a href="https://hub.coursera-notebooks.org/user/pisufwhumemxcfgqmrhmev/notebooks/Week%203/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar%20data%20classification%20with%20one%20hidden%20layer%20v5.ipynb">neural network and deep learning/ Planar data classification </a>
