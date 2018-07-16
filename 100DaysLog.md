@@ -37,3 +37,8 @@ learnt about and implemented hidden units and hidden layers, various activation 
 
 <b>Link of Work:</b> <a href="https://hub.coursera-notebooks.org/user/pisufwhumemxcfgqmrhmev/notebooks/Week%204/Deep%20Neural%20Network%20Application:%20Image%20Classification/Deep%20Neural%20Network%20-%20Application%20v8.ipynb#">neural network and deep learning/ Deep Neural Network for Image Classification </a>
 
+<h3>DAY 8 : Jul 14 , 2018</h3>
+
+<b>Today's Progress :</b> built gender classifier with height, weight, footsize as input features-"learn python for data science" @Sirajology. did the coding challenge. Used various other models to perform classification. Learnt about those various models.
+
+<b>Link of Work:</b> <a href="https://github.com/sharma-r/MLintro-python-Siraj/blob/master/genderclassification.py"> MLintro-python-Siraj </a>
