@@ -42,3 +42,61 @@ learnt about and implemented hidden units and hidden layers, various activation 
 <b>Today's Progress :</b> built gender classifier with height, weight, footsize as input features-"learn python for data science" @Sirajology. did the coding challenge. Used various other models to perform classification. Learnt about those various models.
 
 <b>Link of Work:</b> <a href="https://github.com/sharma-r/MLintro-python-Siraj/blob/master/genderclassification.py"> MLintro-python-Siraj </a>
+
+<h3>DAY 9 : Jul 15 , 2018</h3>
+
+<b>Today's Progress :</b> built a twitter sentiment analyser. takes a keyword and computes subjectivity and polarity of various tweets related to that keyword. did the weekly challenge given by siraj raval.
+
+<b>Link of Work:</b> <a href="https://github.com/sharma-r/MLintro-python-Siraj/blob/master/twittersenti_challenge.py"> MLintro-python-Siraj </a>
+
+
+<h3>DAY 10 : Jul 16 , 2018</h3>
+
+<b>Today's Progress :</b> studied about the linear regression algorithm. and started building a small project the most common one: Stock price Prediction, using it. found the data set.took me an entire day to understand the dataset.
+
+
+<h3>DAY 11 : Jul 17 , 2018</h3>
+
+<b>Today's Progress :</b> implemented a stock price predictor using linear regression. learnt about feature engineering, data analysis and visualizaton using matplotlib and pandas.
+
+<b>Link of Work:</b> <a href="https://github.com/sharma-r/ML_projects./blob/master/stock_price_predictor.py"> ML-stock price predictor. </a>
+
+
+<h3>DAY 12 : Jul 18 , 2018</h3>
+
+<b>Today's Progress :</b> implemented a program that predicts car value for practice. it takes multiple features as input. it is trained using linear regression and prints out the accuracy. 
+
+<b>Link of Work:</b> <a https://github.com/sharma-r/ML_projects./blob/master/car_price.py"> ML-car value.</a>
+
+
+<h3>DAY 13 : Jul 19 , 2018</h3>
+
+<b>Today's Progress :</b> learnt about different types of plots, seaborn etc. used various matplotlib fuctions. tried plotting and experimenting with the parameters for various plots. tried to understand corelation between various features(in the above project) using data visualization.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
