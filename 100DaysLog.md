@@ -74,6 +74,33 @@ learnt about and implemented hidden units and hidden layers, various activation 
 <b>Today's Progress :</b> learnt about different types of plots, seaborn etc. used various matplotlib fuctions. tried plotting and experimenting with the parameters for various plots. tried to understand corelation between various features(in the above project) using data visualization.
 
 
+<h3>DAY 14 : Jul 20 , 2018</h3>
+
+<b>Today's Progress :</b> studied about linear regression in detail. implemented the algorithm manually. learnt about R squared error and calculated it. learnt about performance parameters like confidence, accuracy etc.
+
+
+<h3>DAY 15 : Jul 21 , 2018</h3>
+
+<b>Today's Progress :</b> studied about classification vs linear regression. studied about KNN classifier-its working, euclidien distance, when it should be used etc. implemented a small project. built a classifier that classifies breast cancer as malignant or beningn.   
+
+<b>Link of Work:</b> <a https://github.com/sharma-r/ML_projects./blob/master/breast_cancer.py"> ML-breastcancer-KNN.</a>
+
+
+<h3>DAY 16 : Jul 22 , 2018</h3>
+
+<b>Today's Progress :</b> implemented the KNN algorithm manually. then tested it on the breastcancer data. Compared the accuracies in the two cases:scikit learn and hard coded algorithm. 
+
+
+<h3>DAY 17 : Jul 23 , 2018</h3>
+
+<b>Today's Progress :</b> started with neural network using tensorflow. doing it from sentdex. studied about the model, its advantages, threshold functons, tensorflow, simple nueral network, deep neural notworks, computation graph etc.
+
+
+<h3>DAY 18 : Jul 24 , 2018</h3>
+
+<b>Today's Progress :</b> coded the neural network model that classifies handwritten digits. trained on the mnist dataset. prints the accuacy.   
+
+
 
 
 
