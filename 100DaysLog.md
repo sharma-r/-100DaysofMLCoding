@@ -93,18 +93,33 @@ learnt about and implemented hidden units and hidden layers, various activation 
 
 <h3>DAY 17 : Jul 23 , 2018</h3>
 
-<b>Today's Progress :</b> started with neural network using tensorflow. doing it from sentdex. studied about the model, its advantages, threshold functons, tensorflow, simple nueral network, deep neural notworks, computation graph etc.
+<b>Today's Progress :</b> started with (deep)neural network using tensorflow from pythonprogramming.net/ machine learning. studied about the model, its advantages, threshold functons, tensorflow, simple nueral network, deep neural notworks, computation graph etc.
 
 
 <h3>DAY 18 : Jul 24 , 2018</h3>
 
-<b>Today's Progress :</b> coded the neural network model that classifies handwritten digits. trained on the mnist dataset. prints the accuacy.   
+<b>Today's Progress :</b> learnt to implement a traditional deep neural network model that classifies handwritten digits frompythonprogramming.net/ machine learning. trained on the mnist dataset. got an accuacyof 95%.   
+
+<b>Link of Work:</b> <a https://github.com/sharma-r/ML_projects./blob/master/dr_deep_learning.py"> ML-traditional_NN/digit_classification.</a>
 
 
+<h3>DAY 19 : Jul 25 , 2018</h3>
+
+<b>Today's Progress :</b> learnt how to process data set. how to get data in raw form and convert into a suitable mathematical representation that can be fed into out model.  
 
 
+<h3>DAY 20 : Jul 26 , 2018</h3>
+
+<b>Today's Progress :</b> practically implemented all that i learnt yesterday onto a dataset containing positive and negative statements for classifying the sentiment of a sentence. understood the importance of large datasets. 
+
+<b>Link of Work:</b> <a https://github.com/sharma-r/ML_projects./blob/master/create_sentiment_featuresets.py"> ML-data_preprocessing/sentiment_analysis .</a>
 
 
+<h3>DAY 21 : Jul 27 , 2018</h3>
+
+<b>Today's Progress :</b> learnt about RNN from pythonprogramming.net. used RNN to train hand written digit classifier. it turns out to be more accurate with 98% accuracy  as compared to the traditional NN which i did earlier.
+
+<
 
 
 
