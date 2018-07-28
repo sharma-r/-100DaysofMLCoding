@@ -119,7 +119,7 @@ learnt about and implemented hidden units and hidden layers, various activation 
 
 <b>Today's Progress :</b> learnt about RNN from pythonprogramming.net. used RNN to train hand written digit classifier. it turns out to be more accurate with 98% accuracy  as compared to the traditional NN which i did earlier.
 
-<
+<b>Link of Work:</b> <a https://github.com/sharma-r/ML_projects./blob/master/recurrent_neural_network.py"> ML-deeplearning/RNN .</a>
 
 
 
