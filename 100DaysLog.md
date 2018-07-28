@@ -122,6 +122,10 @@ learnt about and implemented hidden units and hidden layers, various activation 
 <b>Link of Work:</b> <a https://github.com/sharma-r/ML_projects./blob/master/recurrent_neural_network.py"> ML-deeplearning/RNN .</a>
 
 
+<h3>DAY 22 : Jul 28 , 2018</h3>
+
+<b>Today's Progress :</b> learnt about CNN from pythonprogramming.net. used CNN to train hand written digit classifier. 
+
 
 
 
