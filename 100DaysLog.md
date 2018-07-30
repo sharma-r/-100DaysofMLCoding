@@ -127,6 +127,9 @@ learnt about and implemented hidden units and hidden layers, various activation 
 <b>Today's Progress :</b> learnt about CNN from pythonprogramming.net. used CNN to train hand written digit classifier.
 <b>Link of Work:</b> <a https://github.com/sharma-r/ML_projects./blob/master/cnn_dr.py"> ML-deeplearning/CNN .</a>
 
+<h3>DAY 23 : Jul 29 , 2018</h3>
+
+<b>Today's Progress :</b> studied about keras and TFLearn. went through some of their examples.
 
 
 
