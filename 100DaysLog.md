@@ -131,6 +131,10 @@ learnt about and implemented hidden units and hidden layers, various activation 
 
 <b>Today's Progress :</b> studied about keras and TFLearn. went through some of their examples.
 
+<h3>DAY 24 : Jul 30 , 2018</h3>
+
+<b>Today's Progress :</b> going through a tutorial on how to build a chatbot. learnt how to store the collected dataset in a database, using SQLite.
+
 
 
 
