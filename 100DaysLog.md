@@ -66,7 +66,7 @@ learnt about and implemented hidden units and hidden layers, various activation 
 
 <b>Today's Progress :</b> implemented a program that predicts car value for practice. it takes multiple features as input. it is trained using linear regression and prints out the accuracy. 
 
-<b>Link of Work:</b> <a https://github.com/sharma-r/ML_projects./blob/master/car_price.py"> ML-car value.</a>
+<b>Link of Work:</b> <a href="https://github.com/sharma-r/ML_projects./blob/master/car_price.py"> ML-car value.</a>
 
 
 <h3>DAY 13 : Jul 19 , 2018</h3>
@@ -83,7 +83,7 @@ learnt about and implemented hidden units and hidden layers, various activation 
 
 <b>Today's Progress :</b> studied about classification vs linear regression. studied about KNN classifier-its working, euclidien distance, when it should be used etc. implemented a small project. built a classifier that classifies breast cancer as malignant or beningn.   
 
-<b>Link of Work:</b> <a https://github.com/sharma-r/ML_projects./blob/master/breast_cancer.py"> ML-breastcancer-KNN.</a>
+<b>Link of Work:</b> <a href="https://github.com/sharma-r/ML_projects./blob/master/breast_cancer.py"> ML-breastcancer-KNN.</a>
 
 
 <h3>DAY 16 : Jul 22 , 2018</h3>
@@ -100,7 +100,7 @@ learnt about and implemented hidden units and hidden layers, various activation 
 
 <b>Today's Progress :</b> learnt to implement a traditional deep neural network model that classifies handwritten digits frompythonprogramming.net/ machine learning. trained on the mnist dataset. got an accuacyof 95%.   
 
-<b>Link of Work:</b> <a "https://github.com/sharma-r/ML_projects./blob/master/deep_learning_digit_recog.py"> ML-traditional_NN/digit_classification.</a>
+<b>Link of Work:</b> <a href="https://github.com/sharma-r/ML_projects./blob/master/deep_learning_digit_recog.py"> ML-traditional_NN/digit_classification.</a>
 
 
 <h3>DAY 19 : Jul 25 , 2018</h3>
@@ -112,20 +112,20 @@ learnt about and implemented hidden units and hidden layers, various activation 
 
 <b>Today's Progress :</b> practically implemented all that i learnt yesterday onto a dataset containing positive and negative statements for classifying the sentiment of a sentence. understood the importance of large datasets. 
 
-<b>Link of Work:</b> <a https://github.com/sharma-r/ML_projects./blob/master/create_sentiment_featuresets.py"> ML-data_preprocessing/sentiment_analysis .</a>
+<b>Link of Work:</b> <a href="https://github.com/sharma-r/ML_projects./blob/master/create_sentiment_featuresets.py"> ML-data_preprocessing/sentiment_analysis .</a>
 
 
 <h3>DAY 21 : Jul 27 , 2018</h3>
 
 <b>Today's Progress :</b> learnt about RNN from pythonprogramming.net. used RNN to train hand written digit classifier. it turns out to be more accurate with 98% accuracy  as compared to the traditional NN which i did earlier.
 
-<b>Link of Work:</b> <a https://github.com/sharma-r/ML_projects./blob/master/recurrent_neural_network.py"> ML-deeplearning/RNN .</a>
+<b>Link of Work:</b> <a href="https://github.com/sharma-r/ML_projects./blob/master/recurrent_neural_network.py"> ML-deeplearning/RNN .</a>
 
 
 <h3>DAY 22 : Jul 28 , 2018</h3>
 
 <b>Today's Progress :</b> learnt about CNN from pythonprogramming.net. used CNN to train hand written digit classifier.
-<b>Link of Work:</b> <a https://github.com/sharma-r/ML_projects./blob/master/cnn_dr.py"> ML-deeplearning/CNN .</a>
+<b>Link of Work:</b> <a href="https://github.com/sharma-r/ML_projects./blob/master/cnn_dr.py"> ML-deeplearning/CNN .</a>
 
 <h3>DAY 23 : Jul 29 , 2018</h3>
 
