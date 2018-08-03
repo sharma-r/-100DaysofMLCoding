@@ -100,7 +100,7 @@ learnt about and implemented hidden units and hidden layers, various activation 
 
 <b>Today's Progress :</b> learnt to implement a traditional deep neural network model that classifies handwritten digits frompythonprogramming.net/ machine learning. trained on the mnist dataset. got an accuacyof 95%.   
 
-<b>Link of Work:</b> <a https://github.com/sharma-r/ML_projects./blob/master/deep_learning_digit_recog.py"> ML-traditional_NN/digit_classification.</a>
+<b>Link of Work:</b> <a "https://github.com/sharma-r/ML_projects./blob/master/deep_learning_digit_recog.py"> ML-traditional_NN/digit_classification.</a>
 
 
 <h3>DAY 19 : Jul 25 , 2018</h3>
