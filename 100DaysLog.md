@@ -135,6 +135,13 @@ learnt about and implemented hidden units and hidden layers, various activation 
 
 <b>Today's Progress :</b> going through a tutorial on how to build a chatbot. learnt how to store the collected dataset in a database, using SQLite.
 
+<h3>DAY 25 : Jul 31 , 2018</h3>
+
+<b>Today's Progress :</b> continued on the chatbot only.
+
+
+
+
 
 
 
