@@ -180,29 +180,29 @@ learnt about and implemented hidden units and hidden layers, various activation 
 
 
 
-<h3>DAY 25 : Aug 8 , 2018</h3>
+<h3>DAY 33 : Aug 8 , 2018</h3>
 
 <b>Today's Progress :</b> learnt about how the performance of the classifier can be improved.
 
 
-<h3>DAY 25 : Aug 9 , 2018</h3>
+<h3>DAY 34 : Aug 9 , 2018</h3>
 
 <b>Today's Progress :</b> coursera programming assignment. 
 
 
 
-<h3>DAY 25 : JAug 10 , 2018</h3>
+<h3>DAY 35 : JAug 10 , 2018</h3>
 
 <b>Today's Progress :</b> coursera programming assignment.
 
 
 
-<h3>DAY 25 : Aug 11 , 2018</h3>
+<h3>DAY 36 : Aug 11 , 2018</h3>
 
-<b>Today's Progress :</b> i have a project in mind. for that started learning and woring with open cv for image analysis.
+<b>Today's Progress :</b> i have a project in mind. for that started learning and working with open cv for image analysis.
 
 
-<h3>DAY 25 : Aug 12 , 2018</h3>
+<h3>DAY 37 : Aug 12 , 2018</h3>
 
 <b>Today's Progress :</b> video analysis. recording and saving the new video. drawing and writing test on the images. 
 
