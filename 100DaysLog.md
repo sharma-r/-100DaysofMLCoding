@@ -140,6 +140,74 @@ learnt about and implemented hidden units and hidden layers, various activation 
 <b>Today's Progress :</b> continued on the chatbot only.
 
 
+<h3>DAY 26 : Aug 1 , 2018</h3>
+
+<b>Today's Progress : Started studying about image processing and computer vision.
+
+
+<h3>DAY 27 : Aug 2 , 2018</h3>
+
+<b>Today's Progress :</b> Started with the course "Improving Deep Neural Networks" on coursera
+
+
+<h3>DAY 28 : Aug 3 , 2018</h3>
+
+<b>Today's Progress :</b> . Learnt about train/dev/test sets, the hyperparameters tuning, bias/variance. 
+
+
+
+<h3>DAY 29: Aug 4 , 2018</h3>
+
+<b>Today's Progress :</b> tried to learn about various computer vision tools in matlab. Started to implement parasite classfier. Collected blood smaear images of three different kinds of parasites.
+
+
+
+<h3>DAY 30 : Aug 5 , 2018</h3>
+
+<b>Today's Progress :</b> various ways of optimization and regularization of neural network.
+
+
+
+<h3>DAY 31 : Aug 6 , 2018</h3>
+
+<b>Today's Progress :</b> Learnt how to implement a parasite classifier using the machine learning toolbox in matlab.
+
+
+
+<h3>DAY 32 : Aug 7 , 2018</h3>
+
+<b>Today's Progress :</b> started with open cv for image and video analysis. got stuck while installing it + Coursera deep learning course.
+
+
+
+<h3>DAY 25 : Aug 8 , 2018</h3>
+
+<b>Today's Progress :</b> learnt about how the performance of the classifier can be improved.
+
+
+<h3>DAY 25 : Aug 9 , 2018</h3>
+
+<b>Today's Progress :</b> coursera programming assignment. 
+
+
+
+<h3>DAY 25 : JAug 10 , 2018</h3>
+
+<b>Today's Progress :</b> coursera programming assignment.
+
+
+
+<h3>DAY 25 : Aug 11 , 2018</h3>
+
+<b>Today's Progress :</b> i have a project in mind. for that started learning and woring with open cv for image analysis.
+
+
+<h3>DAY 25 : Aug 12 , 2018</h3>
+
+<b>Today's Progress :</b> video analysis. recording and saving the new video. drawing and writing test on the images. 
+
+
+
 
 
 
