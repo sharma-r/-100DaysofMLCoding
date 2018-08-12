@@ -142,7 +142,7 @@ learnt about and implemented hidden units and hidden layers, various activation 
 
 <h3>DAY 26 : Aug 1 , 2018</h3>
 
-<b>Today's Progress : Started studying about image processing and computer vision.
+<b>Today's Progress :</b> Started studying about image processing and computer vision.
 
 
 <h3>DAY 27 : Aug 2 , 2018</h3>
